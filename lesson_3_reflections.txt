@@ -7,3 +7,8 @@ Why might you want to always pull changes manually rather than having Git automa
 -> Automatically does not actually server the purpose because pulling and pushing should be done when actual,meaningful stage has been reached by the programmer. Automatic may develop two scenarios:
   -> by time: at specific time when the system pulls/pushes, the change might not have been finalized
   -> pushing.pulling with commit made: while commit made indicates a logical chang has been made, it still does not indicate the code being read for syncing
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+-> Fork: Create the same repo in your account from others
+-> Clone: from remote to local or from local to local
+->branches: in local or in github to independently do task

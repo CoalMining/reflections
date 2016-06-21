@@ -12,3 +12,6 @@ Describe the differences between forks, clones, and branches. When would you use
 -> Fork: Create the same repo in your account from others
 -> Clone: from remote to local or from local to local
 ->branches: in local or in github to independently do task
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+->
